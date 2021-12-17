@@ -44,7 +44,7 @@ named after Muhammad al-Khwarizmi
  >* <img  width="21px" height="21px" alt="PostgreSQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/postgresql.svg"> - `PostgreSQL` Darabase
  >* <img  width="21px" height="21px" alt="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png?raw=true"> - `VS Code` Code editor 
  >* <img  width="21px" height="21px" alt="JQuery" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/jquery-original.svg"> - `JQuery` Library
- >* <img  width="21px" height="21px" alt="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/json.svg"> - `JSON` 
+ >* <img  width="21px" height="21px" alt="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/json.svg"> - `JSON` Text format of data exchange
  >* <img  width="21px" height="21px" alt="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/45_github-tile.e1be128b4e.png?raw=true"> - `GitHub` Internet hosting
  >* <img  width="21px" height="21px" alt="aws" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"> - `AWS` Cloud computing services
  >* <img  width="21px" height="21px" alt="Heroku" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"> - `Heroku` Cloud computing services
