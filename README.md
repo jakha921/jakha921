@@ -17,8 +17,8 @@
 <br>
 <br>
 <li> 🔬 I'm currently studying for a bachelor degree in <br>
-Tashkent University of Information Technologies <br>
-named after Muhammad al-Khwarizmi
+        Tashkent University of Information Technologies <br>
+        named after Muhammad al-Khwarizmi
 <br>
 <li> 💻 I love writing code and learn anythings about it
 <br>
@@ -53,7 +53,7 @@ named after Muhammad al-Khwarizmi
  >* <img  width="21px" height="21px" alt="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/json.svg"> - `JSON` Text format of data exchange
  >* <img  width="21px" height="21px" alt="GitHub" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/45_github-tile.e1be128b4e.png?raw=true"> - `GitHub` Internet hosting
  >* <img  width="21px" height="21px" alt="aws" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"> - `AWS` Cloud computing services
- >* <img  width="21px" height="21px" alt="Heroku" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"> - `Heroku` Cloud computing services
+ >* <img  width="21px" height="21px" alt="Heroku" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg"> - `Heroku` Cloud platreform
  >* <img  width="21px" height="21px" alt="Rest" height="25" src="https://alexanderfo.com/wp-content/uploads/2019/12/1139px-Cloud-API-Logo.svg_.png"> - `Rest` Build API
  >* <img  width="21px" height="21px" alt="Swagger" height="25" src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png"> - `Swagger` Simplify API development
  >* <img  width="21px" height="21px" alt="Jinjja2" height="25" src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/919c2c3d-5b4e-4650-943a-b0df263f851b.png"> - `Jinjja2` Template engine
