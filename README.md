@@ -27,10 +27,9 @@ named after Muhammad al-Khwarizmi
 <li> 📫 How to reach me: <a href="mailto: jakha921@ya.ru">email</a> 
 <br>
 <li> 
-  <img height="5px" alt="Us" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-states_1f1fa-1f1f8.png">  
-  <img height="5px" alt="Ru" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-russia_1f1f7-1f1fa.png">
-  <img height="5px" alt="Uz" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-uzbekistan_1f1fa-1f1ff.png">  
-  
+  <img height="15px" alt="Us" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-united-states_1f1fa-1f1f8.png">  
+  <img height="15px" alt="Ru" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-russia_1f1f7-1f1fa.png">
+  <img height="15px" alt="Uz" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/flag-uzbekistan_1f1fa-1f1ff.png">  
   Know & speak in this language   
 </lu>          
 
