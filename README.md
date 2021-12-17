@@ -26,7 +26,7 @@ named after Muhammad al-Khwarizmi
 <br>
 <li> 📫 How to reach me: <a href="mailto: jakha921@ya.ru">email</a> 
 <br>
-<li> 🇺🇸 🇷🇺 🇺🇿  Know & speak in this language   
+<li> 🇺🇸 🇷🇺 🇺🇿  :flag-ru:  Know & speak in this language   
 </lu>          
 
 
