@@ -47,7 +47,7 @@
  >* <img  width="21px" height="21px" alt="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/css.svg"> - `CSS` Style sheet language
  >* <img  width="21px" height="21px" alt="SASS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/sass.svg"> - `SASS` Library
  >* <img  width="21px" height="21px" alt="Git" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/git-original.svg"> - `GIT` Open source distributed
- >* <img  width="21px" height="21px" alt="PostgreSQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/postgresql.svg"> - `PostgreSQL` Darabase
+ >* <img  width="21px" height="21px" alt="PostgreSQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/postgresql.svg"> - `PostgreSQL` Database
  >* <img  width="21px" height="21px" alt="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png?raw=true"> - `VS Code` Code editor 
  >* <img  width="21px" height="21px" alt="JQuery" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/jquery-original.svg"> - `JQuery` Library
  >* <img  width="21px" height="21px" alt="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/0c76e7f5ca339abbaa0689c2c50454dbb6263b1d/images/json.svg"> - `JSON` Text format of data exchange
